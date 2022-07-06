@@ -46,29 +46,29 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'Gk Ad Bang:v'
-global.sgh = 'https://github.com/Bot-Mdnew'
-global.sgc = 'https://chat.whatsapp.com/BiJs5Xl4oJA1Ama5BahUwd'
-global.sdc = 'https://github.com/Bot-Mdnew'
+global.sgh = 'https://github.com/Ademods'
+global.sgc = 'https://chat.whatsapp.com/H984ganTo0n6IuBlpMMEbh'
+global.sdc = 'https://github.com/Ademods'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '081251549899'
-global.povo = '081352848936'
-global.pgopay = '081352848936'
-global.ppulsa = '081251549899'
-global.ppulsa2 = '081352848936'
+global.pdana = '08980330708'
+global.povo = '08980330708'
+global.pgopay = '08980330708'
+global.ppulsa = '08980330708'
+global.ppulsa2 = '08980330708'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281542613150'
-global.nomorown = '6281251549899'
-global.namebot = 'DaniBotz Ofc'
-global.nameown = 'X Dani Offcial'
+global.nomorbot = '628980330708'
+global.nomorown = '628980330708'
+global.namebot = 'ModsBOT'
+global.nameown = 'Ademods'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281251549899', 'X Dani Offcial', true]
+  ['628980330708', 'Ademods', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -113,7 +113,7 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '「 DaniBotz |ᗪani Offcial⁩ 」' //Main Watermark
+global.wm = '「 Ademods | ModsBOT⁩ 」' //Main Watermark
 global.wm2 = '    乂 尺乇ㄒ乇卂爪 乂     '
 global.wm3 = '尺乇ㄒ乇卂爪 |ᗪ'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
